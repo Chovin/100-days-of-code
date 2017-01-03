@@ -3,6 +3,7 @@
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
+* [Projects - list of projects I'll probably be working on](projects.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
