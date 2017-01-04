@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 3rd, 2017
+
+**Today's Progress**: FCCG-Website messing around with the splash and carousel layout. Added a WIP p5.js background (cause I don't have any drawing tools :P)  
+
+* No animations:  
+![no animation](images/day001-fccg_particles.png)  
+* With animations looks *ok* on mobile. pretty sparce otherwise:  
+![with animation](images/day001-fccg_sinking_particles.gif)  
+Likely way too distracting. If use it at all, should just wiggle it or apply mouse-over parallax
+
+**Thoughts**: I just avoided js's wonderful self/this 'features', not worth making nice OOP if I need to with bother debugging it. Wondering if I should animate the p5. Would suck up more cpu but very slight animation might be nice.  
+Section off page.. sections. greeny background up top, white pages below?
+
+**Link(s) to work**: [90b1696](https://github.com/FreeCodeCampGuam/freecodecampguam.github.io/commit/90b1696f783b4c811c43a6892d15ebf7b9b5db8c)
+
+
 ### Day 1: January 3rd, 2017
 
 **Today's Progress**: Slow start. Meant to spend most of the time on the FCCG-Website but got caught up in management. Ended up just spending some time with Pico-8.
