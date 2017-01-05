@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 4rd, 2017
+
+**Today's Progress**: FCCG-Website - messing with the splash bg and some styling. Happy with the slow progress.
+Got distracted by the fact that PICO-8 allows you to save whole cartridges as `png` files! Updated Day 1's log to include its cart and a link to the repo.  
+![](images/day003-fccg_styling.gif)
+
+**Thoughts**: Was inspired by @michaelmang's [pages](https://twitter.com/michaelmangial1/status/816678746166009856). Will probably look that way for styling direction, cause man is it difficult for me to style.
+
+**Link(s) to work**: [479e896](https://github.com/Chovin/freecodecampguam.github.io/commit/479e8965588e34f778471f488811cde4ad230b1e)
+: Rolling changes can *probably* be viewed [here](https://chovin.github.io/freecodecampguam.github.io/)
+
 ### Day 2: January 3rd, 2017
 
 **Today's Progress**: FCCG-Website messing around with the splash and carousel layout. Added a WIP p5.js background (cause I don't have any drawing tools :P)  
