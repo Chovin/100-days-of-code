@@ -28,7 +28,9 @@ Thinking of making levels much like [@TRASEVOL_DOG](https://twitter.com/TRASEVOL
 
 That means 2 games, one a week, then 2 games, one every 3 days, then 4-5 games, one every day.. oh boy..
 
-**Link to work:** Coming in future logs ;)
+**Link to work:** If you have a PICO-8, you can download this image and load it! PICO-8 is so cool!  
+![](https://cloud.githubusercontent.com/assets/17536161/21682206/0c8070f2-d39f-11e6-9b96-8a9f302b4844.png)  
+or you could try the [web version](https://chovin.github.io/Kowlins-Pants/) which will probably be updated as the 100 days goes on.
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
